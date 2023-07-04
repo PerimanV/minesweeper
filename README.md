@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 ## Simple minesweeper project made in C language
 ### This was made in collaboration with my classmate Orestis Zappas
 
