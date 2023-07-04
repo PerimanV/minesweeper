@@ -10,4 +10,4 @@ Features a playable minesweeper game with functions such as:
 - Cheating to see behind a square without the risk of loosing (limited to 3 tries)
 - If the current level is won then the user will automaticaly be taken to the next level and so on untill he finaly wins
 
-These functions make the game well playable and have fun!
+These functions make the game well playable and fun!
